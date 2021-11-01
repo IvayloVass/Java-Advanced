@@ -12,3 +12,5 @@ This repo holds tasks solutions from lectures and exercises at SoftUni
 ->  [Multidimensional Arrays - lab](Lab02_MultidimensionalArrays)
 
 ->  [Sets and Maps-exercise - lab](Lab03_SetsAndMaps)
+
+-> [Functional programming - exercise](Exercise05_FunctionalProgramming)
