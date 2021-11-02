@@ -13,6 +13,10 @@ This repo holds tasks solutions from lectures and exercises at SoftUni
 
 ->  [Sets and Maps-exercise - lab](Lab03_SetsAndMaps)
 
--> [Functional programming - exercise](Exercise05_FunctionalProgramming)
+->  [Functional programming - exercise](Exercise05_FunctionalProgramming)
 
--> [Functional programming - lab](Lab05_FunctionalProgramming)
+->  [Functional programming - lab](Lab05_FunctionalProgramming)
+
+->  [Defining classes - exercise](Exercise06_DefiningClasses)
+
+->  [Defining classes - lab](Lab06_DefiningClasses)
