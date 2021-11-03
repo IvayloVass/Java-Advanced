@@ -20,3 +20,7 @@ This repo holds tasks solutions from lectures and exercises at SoftUni
 ->  [Defining classes - exercise](Exercise06_DefiningClasses)
 
 ->  [Defining classes - lab](Lab06_DefiningClasses)
+
+->  [Genericis - exercise(Exercise07_Generics)
+
+->  [Genericis - lab](Lab07_Generics)
